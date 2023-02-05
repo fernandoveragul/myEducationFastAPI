@@ -1,0 +1,5 @@
+*pycache*
+*idea
+*.lock
+.env*
+*.py[cod]
